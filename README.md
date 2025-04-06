@@ -51,12 +51,13 @@ bash
 
 
 📸 Sample Output
-!img[alt]()
-!img[alt]()
-!img[alt]()
+![Brain Tumor Detection Banner](https://github.com/amansaroj9616/Brain-Tumor-Detection-/blob/20483f77fbcb1f44b3355bbbf7584cbfb710e59c/Screenshot%202025-04-06%20190556.png)
+![Brain Tumor Detection Banner](https://github.com/amansaroj9616/Brain-Tumor-Detection-/blob/20483f77fbcb1f44b3355bbbf7584cbfb710e59c/Screenshot%202025-04-06%20190617.png)
+![Brain Tumor Detection Banner](https://github.com/amansaroj9616/Brain-Tumor-Detection-/blob/20483f77fbcb1f44b3355bbbf7584cbfb710e59c/Screenshot%202025-04-06%20190632.png)
 
 📈 Model Accuracy Plot
-!img [alt]()
+![Brain Tumor Detection Banner](https://github.com/amansaroj9616/Brain-Tumor-Detection-/blob/20483f77fbcb1f44b3355bbbf7584cbfb710e59c/Screenshot%202025-04-06%20190704.png)
+![Brain Tumor Detection Banner](https://github.com/amansaroj9616/Brain-Tumor-Detection-/blob/20483f77fbcb1f44b3355bbbf7584cbfb710e59c/Screenshot%202025-04-06%20190714.png)
 
 🏁 How to Run
 Clone the repo
@@ -80,3 +81,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 📬 Contact
 Developed with ❤️ by Aman Saroj
+``` sarojaman4518@gmail.com ```
