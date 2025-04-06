@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
-![Brain Tumor Detection Banner](https://img.freepik.com/free-vector/brain-tumor-abstract-concept-illustration_335657-3681.jpg?w=1380&t=st=1712387356~exp=1712387956~hmac=5596c6c8791b53cc2a19bb232108a18d88df16f8b9b0f22fd00b94fbd7b3f5c1)
+![Brain Tumor Detection Banner](https://raw.githubusercontent.com/amansaroj9616/Brain-Tumor-Detection-/refs/heads/main/braintumor-170806141659-thumbnail-4.webp)
 
 ## 📌 Project Overview
 
